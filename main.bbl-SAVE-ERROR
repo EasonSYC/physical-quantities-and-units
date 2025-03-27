@@ -1,0 +1,436 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{si-brochure}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=7cc6c5ade87f4eff9219bab75019e64c}{%
+           family={{International Bureau of Weights and Measures}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{7cc6c5ade87f4eff9219bab75019e64c}
+      \strng{fullhash}{7cc6c5ade87f4eff9219bab75019e64c}
+      \strng{fullhashraw}{7cc6c5ade87f4eff9219bab75019e64c}
+      \strng{bibnamehash}{7cc6c5ade87f4eff9219bab75019e64c}
+      \strng{authorbibnamehash}{7cc6c5ade87f4eff9219bab75019e64c}
+      \strng{authornamehash}{7cc6c5ade87f4eff9219bab75019e64c}
+      \strng{authorfullhash}{7cc6c5ade87f4eff9219bab75019e64c}
+      \strng{authorfullhashraw}{7cc6c5ade87f4eff9219bab75019e64c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Ninth}
+      \field{isbn}{978-92-822-2272-0}
+      \field{title}{Le Système international d’unités / The International System of Units ('The {SI} Brochure')}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bipm.org/en/publications/si-brochure/
+      \endverb
+      \verb{url}
+      \verb https://www.bipm.org/en/publications/si-brochure/
+      \endverb
+    \endentry
+    \entry{cambridge-syllabus}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=242120d5488fc621385b919fe50a08d3}{%
+           family={{Cambridge International Education}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{242120d5488fc621385b919fe50a08d3}
+      \strng{fullhash}{242120d5488fc621385b919fe50a08d3}
+      \strng{fullhashraw}{242120d5488fc621385b919fe50a08d3}
+      \strng{bibnamehash}{242120d5488fc621385b919fe50a08d3}
+      \strng{authorbibnamehash}{242120d5488fc621385b919fe50a08d3}
+      \strng{authornamehash}{242120d5488fc621385b919fe50a08d3}
+      \strng{authorfullhash}{242120d5488fc621385b919fe50a08d3}
+      \strng{authorfullhashraw}{242120d5488fc621385b919fe50a08d3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cambridge International AS and A Level Physics (9702)}
+      \field{urlday}{8}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-physics-9702/
+      \endverb
+      \verb{url}
+      \verb https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-physics-9702/
+      \endverb
+    \endentry
+    \entry{wiki-si}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=24a2c60ec9027c3901450d409eefb4b8}{%
+           family={{Wikipedia, The Free Encyclopedia}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{fullhash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{fullhashraw}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{bibnamehash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{authorbibnamehash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{authornamehash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{authorfullhash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{authorfullhashraw}{24a2c60ec9027c3901450d409eefb4b8}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{8}
+      \field{month}{3}
+      \field{title}{International System of Units}
+      \field{urlday}{8}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/International_System_of_Units
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/International_System_of_Units
+      \endverb
+    \endentry
+    \entry{si-diagram}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=81fed4eb859f8e106f426ae84d01d91e}{%
+           family={Pisanty},
+           familyi={P\bibinitperiod},
+           given={Emilio},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{81fed4eb859f8e106f426ae84d01d91e}
+      \strng{fullhash}{81fed4eb859f8e106f426ae84d01d91e}
+      \strng{fullhashraw}{81fed4eb859f8e106f426ae84d01d91e}
+      \strng{bibnamehash}{81fed4eb859f8e106f426ae84d01d91e}
+      \strng{authorbibnamehash}{81fed4eb859f8e106f426ae84d01d91e}
+      \strng{authornamehash}{81fed4eb859f8e106f426ae84d01d91e}
+      \strng{authorfullhash}{81fed4eb859f8e106f426ae84d01d91e}
+      \strng{authorfullhashraw}{81fed4eb859f8e106f426ae84d01d91e}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{18}
+      \field{month}{11}
+      \field{title}{SI Unit Relations}
+      \field{urlday}{8}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/episanty/SI-unit-relations
+      \endverb
+      \verb{url}
+      \verb https://github.com/episanty/SI-unit-relations
+      \endverb
+    \endentry
+    \entry{wiki-redef}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=24a2c60ec9027c3901450d409eefb4b8}{%
+           family={{Wikipedia, The Free Encyclopedia}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{fullhash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{fullhashraw}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{bibnamehash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{authorbibnamehash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{authornamehash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{authorfullhash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{authorfullhashraw}{24a2c60ec9027c3901450d409eefb4b8}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{month}{3}
+      \field{title}{2019 revision of the SI}
+      \field{urlday}{8}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/2019_revision_of_the_SI
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/2019_revision_of_the_SI
+      \endverb
+    \endentry
+    \entry{periodic-verification}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=ffe8868e72f9b2283e137701bf3bbf18}{%
+           family={Girard},
+           familyi={G\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{ffe8868e72f9b2283e137701bf3bbf18}
+      \strng{fullhash}{ffe8868e72f9b2283e137701bf3bbf18}
+      \strng{fullhashraw}{ffe8868e72f9b2283e137701bf3bbf18}
+      \strng{bibnamehash}{ffe8868e72f9b2283e137701bf3bbf18}
+      \strng{authorbibnamehash}{ffe8868e72f9b2283e137701bf3bbf18}
+      \strng{authornamehash}{ffe8868e72f9b2283e137701bf3bbf18}
+      \strng{authorfullhash}{ffe8868e72f9b2283e137701bf3bbf18}
+      \strng{authorfullhashraw}{ffe8868e72f9b2283e137701bf3bbf18}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1681-7575}
+      \field{journaltitle}{Metrologia}
+      \field{month}{1}
+      \field{number}{4}
+      \field{title}{The Third Periodic Verification of National Prototypes of the Kilogram (1988-1992)}
+      \field{volume}{31}
+      \field{year}{1994}
+      \field{dateera}{ce}
+      \field{pages}{317\bibrangedash 336}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1088/0026-1394/31/4/007
+      \endverb
+    \endentry
+    \entry{wiki-ipk}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=24a2c60ec9027c3901450d409eefb4b8}{%
+           family={{Wikipedia, The Free Encyclopedia}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{fullhash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{fullhashraw}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{bibnamehash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{authorbibnamehash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{authornamehash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{authorfullhash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{authorfullhashraw}{24a2c60ec9027c3901450d409eefb4b8}
+      \field{extraname}{3}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{24}
+      \field{month}{2}
+      \field{title}{International Prototype of the Kilogram}
+      \field{urlday}{8}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/International_Prototype_of_the_Kilogram
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/International_Prototype_of_the_Kilogram
+      \endverb
+    \endentry
+    \entry{wiki-ampere}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=24a2c60ec9027c3901450d409eefb4b8}{%
+           family={{Wikipedia, The Free Encyclopedia}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{fullhash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{fullhashraw}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{bibnamehash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{authorbibnamehash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{authornamehash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{authorfullhash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{authorfullhashraw}{24a2c60ec9027c3901450d409eefb4b8}
+      \field{extraname}{4}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{month}{2}
+      \field{title}{Ampere}
+      \field{urlday}{8}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Ampere
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Ampere
+      \endverb
+    \endentry
+    \entry{water-diagram}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=63be37eb23dc88361a0deca071ffd509}{%
+           family={{Cmglee}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=24a2c60ec9027c3901450d409eefb4b8}{%
+           family={{Wikipedia, The Free Encyclopedia}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{63be37eb23dc88361a0deca071ffd509}
+      \strng{fullhash}{63be37eb23dc88361a0deca071ffd509}
+      \strng{fullhashraw}{63be37eb23dc88361a0deca071ffd509}
+      \strng{bibnamehash}{63be37eb23dc88361a0deca071ffd509}
+      \strng{authorbibnamehash}{63be37eb23dc88361a0deca071ffd509}
+      \strng{authornamehash}{63be37eb23dc88361a0deca071ffd509}
+      \strng{authorfullhash}{63be37eb23dc88361a0deca071ffd509}
+      \strng{authorfullhashraw}{63be37eb23dc88361a0deca071ffd509}
+      \strng{editorbibnamehash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{editornamehash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{editorfullhash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{editorfullhashraw}{24a2c60ec9027c3901450d409eefb4b8}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{4}
+      \field{month}{10}
+      \field{title}{Phase diagram of water simplified}
+      \field{urlday}{8}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/wiki/File:Phase_diagram_of_water_simplified.svg
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/wiki/File:Phase_diagram_of_water_simplified.svg
+      \endverb
+    \endentry
+    \entry{wiki-kelvin}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=24a2c60ec9027c3901450d409eefb4b8}{%
+           family={{Wikipedia, The Free Encyclopedia}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{fullhash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{fullhashraw}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{bibnamehash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{authorbibnamehash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{authornamehash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{authorfullhash}{24a2c60ec9027c3901450d409eefb4b8}
+      \strng{authorfullhashraw}{24a2c60ec9027c3901450d409eefb4b8}
+      \field{extraname}{5}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{4}
+      \field{month}{3}
+      \field{title}{Kelvin}
+      \field{urlday}{8}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Kelvin
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Kelvin
+      \endverb
+    \endentry
+    \entry{experiment-in-physics}{incollection}{}{}
+      \name{author}{2}{}{%
+        {{hash=9c6b28d8b291c00d32dc5423c1ad716a}{%
+           family={Franklin},
+           familyi={F\bibinitperiod},
+           given={Allan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=60cfc668393414fa3a7aa7245e65c269}{%
+           family={Perovic},
+           familyi={P\bibinitperiod},
+           given={Slobodan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=5ff1c29ff1cc8f6336533b0ffd842a79}{%
+           family={Zalta},
+           familyi={Z\bibinitperiod},
+           given={Edward\bibnamedelima N.},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=47603970fcd579d567acd0cb66cdb242}{%
+           family={Nodelman},
+           familyi={N\bibinitperiod},
+           given={Uri},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Metaphysics Research Lab, Stanford University}%
+      }
+      \strng{namehash}{37500121168a05a1a137b8b72807115d}
+      \strng{fullhash}{37500121168a05a1a137b8b72807115d}
+      \strng{fullhashraw}{37500121168a05a1a137b8b72807115d}
+      \strng{bibnamehash}{37500121168a05a1a137b8b72807115d}
+      \strng{authorbibnamehash}{37500121168a05a1a137b8b72807115d}
+      \strng{authornamehash}{37500121168a05a1a137b8b72807115d}
+      \strng{authorfullhash}{37500121168a05a1a137b8b72807115d}
+      \strng{authorfullhashraw}{37500121168a05a1a137b8b72807115d}
+      \strng{editorbibnamehash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \strng{editornamehash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \strng{editorfullhash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \strng{editorfullhashraw}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {Stanford} Encyclopedia of Philosophy}
+      \field{edition}{Fall 2023}
+      \field{title}{Experiment in Physics}
+      \field{urlday}{8}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://plato.stanford.edu/archives/fall2023/entries/physics-experiment/
+      \endverb
+      \verb{url}
+      \verb https://plato.stanford.edu/archives/fall2023/entries/physics-experiment/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
